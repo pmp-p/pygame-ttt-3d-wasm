@@ -1,0 +1,34 @@
+How To Play:
+
+T-Cubed is the classic two player game tic-tac-toe with a whole new axis added.  Choose between two different game modes: easy mode where you play against an easy-to-beat AI, 
+
+and multiplayer mode where you play against another person on the same machine.  You can also customize the board size. For any board size of size n, the resulting game board 
+
+will be size n x n x n. 4x4x4 is the recommended board size for the most interesting games.
+
+
+On the game board, at all times, at least one cube will be highlighted. The highlighted cube is where a player can currently play their move. How to move the highlighter is what follows:
+
+    1. Use the arrow keys (UP/DOWN/LEFT/RIGHT) to move those respective directions in the
+        k-hat and i-hat directions. 
+
+    2. To "jump" to another level, press SHIFT + UP/DOWN and you can traverse the j-hat direction.
+
+    3. To make a move, press p and the corresponding highlighted cube will be claimed by whosever turn it is.
+
+
+You can also control the camera so you can see all of the cubes on the board. The controls are as follows:
+
+    1. To zoom, scroll the mouse
+
+    2. To rotate the camera, you can either click-n-drag with the mouse or use LCTRL + any arrow key.
+
+    3. To reset the camera to the original position, press SPACE.
+
+
+Like normal 2D tic-tac-toe, the object of the game is to claim n consectutive spots on an nxnxn board.  For T-Cubed, this includes every row, column, and diagonal possible on the board. Players will take
+
+turns filling out the boards with X's and O's.
+
+
+I hope you enjoy T-Cubed!
